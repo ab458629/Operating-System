@@ -6,5 +6,5 @@
 ## 作業簡介
 #### HW1. 撰寫一個system call，並trace code當system call發生時的流程
 #### HW2. Implement page table的概念，達成multi-programming，同時trace code
-#### HW3. Trace Process的流程，並實踐CPU scheduling，Multi-level Queue scheduling
+#### HW3. Trace Process的流程，並實踐CPU scheduling，Multi-level FeedBack Queue Scheduling
 ###### 每個Homework資料夾裡都有HW@_report.pdf
